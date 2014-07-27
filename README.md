@@ -16,5 +16,7 @@ This map is based on an aplified seed and has most of the buildings up in the mo
 **This is intended to provide an illustration of the work that I do in Minecraft, I am not accepting contributions to this save, but I will field siggestions.**
 
 [http://moorman.la](http://moorman.la)
+
 [http://moorman.democrat](http://moorman.democrat)
+
 [ryanmoorman (at) gmail dot com](mailto:ryanmoorman@gmail.com)
